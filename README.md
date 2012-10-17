@@ -1,4 +1,4 @@
-<a href="http://travis-ci.org/cdnjs/cdnjs"><img src="https://secure.travis-ci.org/cdnjs/cdnjs.png" alt="Build Status" style="max-width:100%;"></a>
+<a href="http://travis-ci.org/RichardBronosky/cdnjs"><img src="https://secure.travis-ci.org/RichardBronosky/cdnjs.png" alt="Build Status" style="max-width:100%;"></a>
 
 
 # cdnJS Script Repository
